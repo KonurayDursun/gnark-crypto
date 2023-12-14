@@ -36,7 +36,7 @@
 
 ## Getting started
 
-### Go version
+### Go version Detail
 
 `gnark-crypto` is tested with the last 2 major releases of Go (currently 1.19 and 1.20).
 
